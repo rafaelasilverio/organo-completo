@@ -1,70 +1,65 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Organo  
+Boas-vindas ao **Organo**, um projeto desenvolvido como parte da formação de React com JavaScript da [Alura](https://www.alura.com.br). O Organo é uma aplicação interativa que permite gerenciar times personalizados, adicionar membros e organizar informações de forma visual e intuitiva.  
 
-## Available Scripts
+## 🛠️ Funcionalidades  
+- Criar e gerenciar times personalizados.  
+- Adicionar integrantes com:  
+  - Nome.  
+  - Cargo.  
+  - Link para imagem de perfil.  
+- Times exibidos com cores customizadas.  
+- **Novas funcionalidades**:  
+  - Criar novos times com cores personalizadas.  
+  - Alterar a cor de times já existentes.  
+  - Excluir colaboradores.  
+  - Favoritar colaboradores para destacá-los.  
 
-In the project directory, you can run:
+## 🧪 Tecnologias Utilizadas  
+O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:  
+- **React**: para construção de interfaces interativas.  
+- **Create React App**: para inicialização e configuração do projeto.  
+- **HTML**, **CSS** e **JavaScript**: base do desenvolvimento web.  
 
-### `npm start`
+## 🚀 Como Executar o Projeto  
+### Pré-requisitos  
+- **Node.js**.  
+- Gerenciador de pacotes **npm**.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Passo a passo  
+1. Clone este repositório:  
+   ```bash  
+   git clone https://github.com/rafaelasilverio/organo-completo.git 
+   cd organo  
+   ```  
+2. Instale as dependências:  
+   ```bash  
+   npm install  
+   ```  
+3. Inicie o projeto:  
+   ```bash  
+   npm start  
+   ```  
+4. Abra no navegador:  
+   ```  
+   http://localhost:3000  
+   ```  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📚 Aprendizados  
+Ao desenvolver esta nova versão do projeto, foram aprofundados conceitos como:  
+- Criação e reutilização de **componentes React**.  
+- Gerenciamento de **props** e **states** para manipular dados.  
+- Refatoração de componentes e o uso do React como biblioteca declarativa.
+- Diferenças entre DOM e Virtual DOM, e como o React otimiza alterações para melhorar a performance.
+- O conceito de one-way data binding no React e como ele difere de two-way data binding.
+- Por que o React é considerado uma biblioteca e não um framework.
+- Implementação de novas funcionalidades interativas, como:  
+  - Manipulação dinâmica de cores.  
+  - Lógica para favoritar e excluir itens.  
 
-### `npm test`
+## 🤝 Contribuições  
+Se você encontrou algum problema ou tem sugestões para melhorar este projeto, fique à vontade para abrir uma issue ou enviar um pull request!  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 👩‍💻 Desenvolvedor(a)  
+Feito com 💙 por [Rafa Silvério](https://github.com/rafaelasilverio).  
+```  
